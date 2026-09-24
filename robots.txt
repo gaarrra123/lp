@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://goto77.com.tw/sitemap.xml
